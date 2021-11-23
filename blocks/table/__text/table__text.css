@@ -1,0 +1,9 @@
+.table__text {
+    height: 32px;
+    font-size: 16px;
+    line-height: 18px;
+    font-weight: 400;
+    color: #4d4d4d;
+    margin: 10px auto 0 auto;
+    text-align: center;
+}

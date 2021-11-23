@@ -1,0 +1,37 @@
+@import url(../vendor/normalize.css);
+
+/*Подключаем fonts*/
+@import url(../fonts/fonts.css);
+
+/*Подключаем page*/
+@import url(../blocks/page/page.css);
+
+/*Подключаем header*/
+@import url(../blocks/header/header.css);
+
+/*Подключаем footer*/
+@import url(../blocks/footer/footer.css);
+
+/*Подключаем link-aim*/
+@import url(../blocks/link-aim/link-aim.css);
+
+/*Подключаем portfolio*/
+@import url(../blocks/portfolio/portfolio.css);
+
+/*Подключаем line*/
+@import url(../blocks/line/line.css);
+
+/*Подключаем table*/
+@import url(../blocks/table/table.css);
+@import url(../blocks/table/__card/table__card.css);
+@import url(../blocks/table/__text/table__text.css);
+@import url(../blocks/table/__title/table__title.css);
+@import url(../blocks/table/__image/table__image.css);
+@import url(../blocks/table/__link/table__link.css);
+@import url(../blocks/table/__price/table__price.css);
+
+
+/*Подключаем title*/
+@import url(../blocks/title/title.css);
+
+
